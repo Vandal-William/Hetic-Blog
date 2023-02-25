@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nom": "Agate",
+        "prénom": "Michelle",
+        "work": "Rédactrice en chef",
+        "picture": "./images/team1.jpg", 
+        "intro": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "social": {
+            "facebook": "https://fr-fr.facebook.com/",
+            "twitter": "https://twitter.com/?lang=fr",
+            "instagram": "https://www.instagram.com/?hl=fr",
+            "linkedin": "https://fr.linkedin.com/"
+        }
+    },
+    {
+        "id": 2,
+        "nom": "Jyara",
+        "prénom": "Justine",
+        "work": "chroniqueuse",
+        "picture": "./images/team2.jpg", 
+        "intro": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "social": {
+            "facebook": "https://fr-fr.facebook.com/",
+            "twitter": "https://twitter.com/?lang=fr",
+            "instagram": "https://www.instagram.com/?hl=fr",
+            "linkedin": "https://fr.linkedin.com/"
+        }
+    },
+    {
+        "id": 3,
+        "nom": "Somback",
+        "prénom": "Laure",
+        "work": "Creative leader",
+        "picture": "./images/team3.jpg", 
+        "intro": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "social": {
+            "facebook": "https://fr-fr.facebook.com/",
+            "twitter": "https://twitter.com/?lang=fr",
+            "instagram": "https://www.instagram.com/?hl=fr",
+            "linkedin": "https://fr.linkedin.com/"
+        }
+    }
+]
