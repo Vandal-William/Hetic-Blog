@@ -67,3 +67,8 @@
 .search-input{
     padding: 5px;
 }
+
+.slider{
+    display: flex;
+    gap: 15px;  
+}

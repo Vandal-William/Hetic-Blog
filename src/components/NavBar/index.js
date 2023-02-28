@@ -56,10 +56,8 @@ function NavBar(header) {
     const searchInput = document.createElement('input');
     searchInput.classList.add('search-input');
     searchInput.setAttribute('type', 'text');
+    searchInput.setAttribute('placeholder', 'Rechercher');
     navLinksContainer.appendChild(searchInput)
-
-
-
 
 }
 

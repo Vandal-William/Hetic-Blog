@@ -1,3 +1,7 @@
-import header from './src/components/Header/index.js';
+import Header from './src/components/Header/index.js';
+import Slider from './src/components/Slider/index.js';
+import Cards from './src/components/Cards/index.js';
 
-header()
+Header();
+Slider();
+Cards();
